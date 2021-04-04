@@ -1,4 +1,4 @@
-![HelloWorld](https://user-images.githubusercontent.com/66742822/113515077-dbd0c700-95a4-11eb-87d0-36d4cec31d0d.png)
+![2000px-HelloWorld svg](https://user-images.githubusercontent.com/66742822/113515176-74ffdd80-95a5-11eb-807d-cb43a1e03996.png)
 
 <!--
 - ### Hi there 👋
